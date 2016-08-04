@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[wtf?]]></title>
         <description><![CDATA[wtf?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/private-capital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 16:41:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 16:46:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/private-capital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Infographic: These 5 Giant Companies Control the World's Beer]]></title>
-            <description><![CDATA[<article><h1>Infographic: These 5 Giant Companies Control the World's Beer</h1><p>The next time you hit your local pub, the odds are that the pint of beer you order will come from one of five global beer conglomerates. Together, they own hundreds of the best-known domestic, import, and craft beer brands all over the world, in pretty much any country you can name.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b8219482426e0547fa8090d852c7e749/noop.jpg?input=http%3A%2F%2F2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbeer-brands-full-size.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Infographic: These 5 Giant Companies Control the World's Beer</h1><p>The illusion of choice in beer...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b8219482426e0547fa8090d852c7e749/noop.jpg?input=http%3A%2F%2F2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbeer-brands-full-size.jpg"></article>]]></description>
             <link>http://www.visualcapitalist.com/5-big-companies-control-worlds-beer/</link>
             <guid isPermaLink="false">ca017d9d-f9bb-4403-89b2-df8df49232c1</guid>
-            <pubDate>Thu, 04 Aug 2016 16:41:42 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2016 16:46:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
