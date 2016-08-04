@@ -1,4 +1,3 @@
-layout_spectrum: 0.7749876270536333
 typography_spectrum: 0.9448790955357254
 color:
   brandStrength: 0.21922042616643012
@@ -11,5 +10,7 @@ color:
     - '#29D9C2'
     - '#BDF271'
     - '#FFFFA6'
+layout_spectrum: 0.7749876270536333
 name: private capital
+title: wtf?
 description: the illusion of choice
