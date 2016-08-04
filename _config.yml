@@ -1,0 +1,14 @@
+layout_spectrum: 0.7749876270536333
+typography_spectrum: 0.9448790955357254
+color:
+  brandStrength: 0.21922042616643012
+  lightness: 0.5759282393846661
+  saturation: 0.037353603169322014
+  rhythmicContrast: 0.642335832118988
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+name: private capital
