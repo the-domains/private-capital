@@ -11,6 +11,10 @@ color:
     - '#BDF271'
     - '#FFFFA6'
 layout_spectrum: 0.7749876270536333
+author:
+  name: Herman A. van den Berg
+  email: herman.vandenberg@procerity.com
+  url: thegrid.ai/private-captial
 name: private capital
 title: wtf?
 description: musings of an academic investor
